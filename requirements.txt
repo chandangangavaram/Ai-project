@@ -1,0 +1,8 @@
+langchain
+chromadb
+pypdf
+sentence-transformers
+gradio
+streamlit
+langchain-ollama
+
